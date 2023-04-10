@@ -57,3 +57,5 @@
     <owl:NamedIndividual rdf:about="#Aquaculture">
         <rdf:type rdf:resource="#IndustryGroup"/>
         <rdfs:label>Aquaculture</rdfs:label>
+
+<?xml version="1.0"?>
