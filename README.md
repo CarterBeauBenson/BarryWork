@@ -1,4 +1,4 @@
-         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         <xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
          xmlns:owl="http://www.w3.org/2002/07/owl#"
          xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
          xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
@@ -58,4 +58,4 @@
         <rdf:type rdf:resource="#IndustryGroup"/>
         <rdfs:label>Aquaculture</rdfs:label>
 
-<?xml version="1.0"?>
+</rdf:RDF>
